@@ -1,0 +1,10 @@
+
+/.vscode
+/.github
+/node_modules
+/.cache
+/prisma/migrations
+/prisma/schema.prisma
+/build
+/public/build
+/app/styles
